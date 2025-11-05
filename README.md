@@ -1,0 +1,1 @@
+This Python script provides basic tools to generate simulated Raman spectra of basic cell compartments. The code allows for varying levels of noise, fluorescence, cosmic ray spikes, and the addition and removal of Raman signals, as well as changing the shapes. 
